@@ -11,3 +11,5 @@ mylist.append('succesfully loaded!')
 mylist.append('do you like it?')
 mylist.append('you can change the text here, just dont remote the ')
 print(mylist)
+
+you might have to put it in place because of GitHub :/
